@@ -1,0 +1,14 @@
+{
+    "orders": [
+      
+        {"_id":"63wDdfMkQ",
+        "name":"vira",
+        "email":"virameliana18@gmail.com",
+        "address":"jl sepudi",
+        "cartItems":[{"_id":"laptop1","title":"ASUS ROG G513QM-R936D6G-O RYZEN 9-5900HX-16GB-1TB SSD-RTX3060 6GB-WIN","price":28999000,"count":1}],
+        "total":28999000,
+        "createdAt":{"$date":"2021-03-28T03:07:56.963Z"},
+        "updatedAt":{"$date":"2021-03-28T03:07:56.963Z"},"__v":0}
+    
+    ]
+}

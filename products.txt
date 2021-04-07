@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "_id": "laptop1",
+      "image": "/images/laptop1.jpg",
+      "title": "ASUS ROG G513QM-R936D6G-O RYZEN 9-5900HX-16GB-1TB SSD-RTX3060 6GB-WIN",
+      "description": "ASUS ROG G513QM-R936D6G-O RYZEN 9-5900HX-16GB-1TB SSD-RTX3060 6GB-WIN with new condition. Weight is 6000 gr and classified of gaming laptop",
+      "specification": ["AMD Ryzen9 5900HX Processor", "16GB DDR4 3200MHz", "HardDisk 1TB"],
+      "price": 28.999.000
+    },
+    {
+      "_id": "laptop2",
+      "image": "/images/laptop2.jpg",
+      "title": "ASUS ZENBOOK DUO UX482EA i5-1135G7-8GB-512GB-IrisXe-14 FHD TOUCH",
+      "description": "ASUS ZENBOOK DUO UX482EA i5-1135G7-8GB-512GB-IrisXe-14 FHD TOUCH with new condition. Weight is 4000 gr and classified of ultrabook",
+      "specification": ["Intel Core i5-1135G7 Processor", "8GB LPDDR4x", "HardDisk 512GB"],
+      "price": 19.599.000
+    },
+    {
+      "_id": "laptop3",
+      "image": "/images/laptop3.jpg",
+      "title": "ASUS A416MA-FHD551 N5030-4GB-512GB PCIE-UMA-14 FHD-WIN10-OHS",
+      "description": "ASUS A416MA-FHD551 N5030-4GB-512GB PCIE-UMA-14 FHD-WIN10-OHS with new condition. Weight is 4000 gr and classified of consumer laptop",
+      "specification": ["Intel Pentium Silver N5030 Processor", "4GB DDR4", "HardDisk 512GB"],
+      "price": 6.799.000
+    },
+    {
+      "_id": "laptop4",
+      "image": "/images/laptop4.jpg",
+      "title": "ASUS E410MA-HD551 N5030-8GB-512GB PCIE-UMA-14 HD-WIN10-OHS NUMPAD",
+      "description": "ASUS E410MA-HD551 N5030-8GB-512GB PCIE-UMA-14 HD-WIN10-OHS NUMPAD with new condition. Weight is 4000 gr and classified of consumer laptop. The collection color is Blue, White, and Pink",
+      "specification": ["Intel Pentium Silver Processor", "8GB DDR4", "HardDisk 512GB"],
+      "price": 6.899.000
+    },
+    {
+      "_id": "laptop5",
+      "image": "/images/laptop5.jpg",
+      "title": "ASUS TM420UA-EC551VIPS R5-5500U-8GB-512GB-UMA-14 VIPS FHD-WIN10+OHS",
+      "description": "ASUS TM420UA-EC551VIPS R5-5500U-8GB-512GB-UMA-14 VIPS FHD-WIN10+OHS with new condition. Weight is 4000 gr and classified of 2 in 1 laptop.",
+      "specification": ["AMD Ryzen 5 5500u Processor", "8GB RAM DDR4", "HardDisk 512GB"],
+      "price": 10.699.000
+    },
+    {
+      "_id": "laptop6",
+      "image": "/images/laptop6.jpg",
+      "title": "ASUS ZENBOOK UX325EA-OLED I5-1135G7-8G-512G-IRISXE-13.3 OLED-WIN10+OHS",
+      "description": "ASUS ZENBOOK UX325EA-OLED I5-1135G7-8G-512G-IRISXE-13.3 OLED-WIN10+OHS with new condition. Weight is 4000 gr and classified of ultrabook",
+      "specification": ["Intel Core i5-1135G7 Processor", "8GB LPDDR4X", "HardDisk 512GB"],
+      "price": 15.999.000
+    },
+    {
+      "_id": "laptop7",
+      "image": "/images/laptop7.jpg",
+      "title": "ASUS A416EP i5-1135G7-4GB-512GB PCIE-MX330 2GB-14 FHD-WIN10-OHS",
+      "description": "ASUS A416EP i5-1135G7-4GB-512GB PCIE-MX330 2GB-14 FHD-WIN10-OHS with new condition. Weight is 4000 gr and classified of consumer laptop. The color is Silver and Grey",
+      "specification": ["Intel Core i5-1135G7 Processor", "4GB DDR4", "HardDisk 512GB"],
+      "price": 10.899.000
+    },
+    {
+      "_id": "laptop8",
+      "image": "/images/laptop8.jpg",
+      "title": "ASUS VIVOBOOK A416MA-EB421T/EB422T N4020-4GB-256GB SSD PCIE-WIN10-OHS",
+      "description": "ASUS VIVOBOOK A416MA-EB421T/EB422T N4020-4GB-256GB SSD PCIE-WIN10-OHS with new condition. Weight is 4000 gr and classified of Notebook",
+      "specification": ["N4020 Processor", "4GB DDR4", "SSD 256GB"],
+      "price": 5.490.000
+    },
+    {
+      "_id": "laptop9",
+      "image": "/images/laptop9.jpg",
+      "title": "ASUS TP470EZ-EC551TS i5-1135G7-8GB-512GB PCIE-IRIS Xe-14 VIPS TOUCH",
+      "description": "ASUS TP470EZ-EC551TS i5-1135G7-8GB-512GB PCIE-IRIS Xe-14 VIPS TOUCH with new condition. Weight is 4000 gr and classified of 2 in 1 laptop",
+      "specification": ["Intel Core i5-1135G7 Processor", "8GB LPDDR4X", "Hard Disk 512GB"],
+      "price": 13.799.000
+    },
+    {
+      "_id": "laptop10",
+      "image": "/images/laptop10.jpg",
+      "title": "ASUS TUF GAMING FX516PR-I737C6T-O i7-11370H-16GB-1TB SSD-RTX3070 8GB",
+      "description": "ASUS TUF GAMING FX516PR-I737C6T-O i7-11370H-16GB-1TB SSD-RTX3070 8GB with new condition. Weight is 6500 gr and classified of gaming laptop",
+      "specification": ["Intel Core i7-11370H Processor", "16GB DDR4", "Hard Disk 1TB"],
+      "price": 29.999.000
+    }
+  ]
+}
